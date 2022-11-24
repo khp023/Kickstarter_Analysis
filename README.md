@@ -9,10 +9,6 @@ The initiative following Louise's desire to set up her own kickstarter campaign 
 This specific analysis of the Kickstarter dataset is to trend global outcomes on Kickstarters for plays based on their launch date and goals. This information will help Louise compare her campaign results to see if they were as expected and will potentially give information on how to set up for the best outcome possible in the future. The analysis is able to demonstrate to Louise forms of data parsing from the main Kickstarter sheet and the usage of Pivot tables. 
 
 ## Analysis and Challenges
-Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
-
-The overview of the analysis is well described with screenshots (2 pt).
-Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered (2 pt).
 
 ### Analysis of Outcomes Based on Launch Date
 
